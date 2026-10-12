@@ -1,0 +1,8 @@
+{
+  "name": "Thiên Phú Hotel - Khách Sạn Nghỉ Ngơi Theo Giờ TP.HCM",
+  "description": "Đặt phòng khách sạn Thiên Phú tại 56 Tân Hương, TP. Hồ Chí Minh. Không gian riêng tư, nghỉ ngơi linh hoạt theo giờ, giá chỉ từ 90.000đ/giờ đầu, phục vụ 24/24.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
